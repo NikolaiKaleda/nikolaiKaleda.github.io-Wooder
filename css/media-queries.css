@@ -1,0 +1,635 @@
+@media only screen and (max-width:1680px) {
+    /*----- HEADER -----*/
+    .headerNav {
+        padding-top: 1.5%;
+        padding-left: 1%;
+    }
+    .fontNavStyle {
+        font-size: 0.9em;
+        letter-spacing: 0.03em;
+    }
+    .accordionHead {
+        margin-right: 46.7%;
+    }
+    .accordeonHead .drop-menu-main-sub .title {
+        padding: 10.6px 14px;
+    }
+    .accordIcon {
+        margin-right: 8px;
+        width: 35%;
+    }
+    .logotypeHead img {
+        top: 48%;
+        left: 37%;
+        width: 11%;
+        height: 40%;
+    }
+    .titlesHead a:first-child {
+        margin-right: 30%;
+    }
+    .titlesHead a:last-child {
+        margin-left: 24%;
+    }
+    .alertHead img {
+        left: 93%;
+        width: 22px;
+        height: 22px;
+    }
+    /*----- MAIN SCREEN -----*/
+    .mainScreen {
+        min-height: 900px;
+    }
+    .mainScreenBg {
+        max-width: 1680px;
+        min-height: 900px;
+    }
+    h1 {
+        font-size: 5.5em;
+    }
+    .navigationNumber {
+        top: 50%;
+        left: 4%;
+    }
+    .learnMoreBtn {
+        font-size: 0.8em;
+        height: 31px;
+        letter-spacing: 0.15em;
+    }
+    .learnMoreBtn img {
+        width: 16%;
+    }
+    .linkToPage {
+        margin-left: 70px;
+    }
+    .navigationTextContainer {
+        font-size: 0.9em;
+    }
+    .navigationMouseContainer {
+        margin-left: 37.4%;
+    }
+    .navigationMouseIcon {
+        padding-bottom: 19%;
+    }
+    .navigationMouseArrow {
+        width: 12%;
+    }
+    .navigationMouseText {
+        letter-spacing: 0.1em;
+    }
+    .shareContainer {
+        bottom: 0%;
+        right: 0.5%;
+    }
+    .pageSeparatorContainer {
+        margin-left: 81.8%;
+        margin-top: -0.8%;
+    }
+    /*----- FURNITURE -----*/
+    .furniture {
+        max-width: 1680px;
+    }
+    .furnitureTitle {
+        font-size: 2.65em;
+        margin-left: 34.5%;
+        margin-top: 17.5%;
+    }
+    .furnitureTitle img {
+        margin-bottom: 1%;
+        margin-left: -2%;
+        width: 28%;
+    }
+    .furnitureDescription {
+        font-size: 0.9em;
+        margin-left: 320px;
+        margin-top: 10px;
+    }
+    .furnitureDescriptionText {
+        width: 330px;
+        margin-left: 22px;
+        line-height: 22px;
+    }
+    .furnitureLearnMore {
+        margin-left: 60%;
+        letter-spacing: 0.1em;
+    }
+    .furnitureLearnMoreTitle {
+        font-size: 0.85em;
+        padding-bottom: 1%;
+    }
+    .pageNumber {
+        margin-left: 41.5%;
+        margin-top: 12%;
+        letter-spacing: 0em;
+    }
+    .furnitureImg {
+        margin-left: 49.7%;
+        margin-top: 3%;
+    }
+    .furnitureBg {
+        top: 33%;
+        left: 62.5%;
+        letter-spacing: 0.3em;
+    }
+    .furnitureBg p {
+        font-size: 9.7em;
+    }
+    .furnitureBg2 {
+        top: 700px;
+        left: 18%;
+    }
+    .furnitureBg2 p {
+        font-size: 22em;
+    }
+}
+
+@media only screen and (max-width:1370px) {
+    /*----- HEADER -----*/
+    .headerNav {
+        padding-top: 1%;
+        padding-left: 1.3%;
+    }
+    .fontNavStyle {
+        font-size: 0.7em;
+    }
+    .accordionHead {
+        margin-right: 45%;
+    }
+    .accordionPoint {
+        font-size: 0.7em;
+    }
+    .logotypeHead img {
+        top: 45%;
+        left: 33%;
+    }
+    .alertHead img {
+        position: absolute;
+        top: 30%;
+        left: 91%;
+    }
+    /*----- MAIN SCREEN -----*/
+    .mainScreen {
+        min-height: 765px;
+    }
+    .mainScreenBg {
+        max-width: 1370px;
+        min-height: 780px;
+    }
+    h1 {
+        font-size: 5em;
+        margin-left: 34%;
+    }
+    .navigationNumber {
+        top: 45%;
+        left: 3%;
+    }
+    .navigationNumber p {
+        font-size: 2.2em;
+    }
+    .learnMoreBtn {
+        padding-left: 3%;
+        padding-top: 1.2%;
+        margin-left: 41%;
+    }
+    .learnMoreBtn img {
+        margin-left: 4%;
+    }
+    .linkToPageStyle {
+        width: 8px;
+        height: 8px;
+        border-radius: 4px;
+    }
+    .linkToPageBtn {
+        margin-right: 30px;
+    }
+    .linkToPage {
+        margin-left: 40px;
+    }
+    .navigationTextContainer {
+        font-size: 0.8em;
+    }
+    .navigationMouseContainer {
+        margin-top: -5.5%;
+    }
+    .navigationMouseText {
+        font-size: 0.7em;
+    }
+    /*----- FURNITURE -----*/
+    .furniture {
+        max-width: 1370px;
+    }
+    .furnitureTitle {
+        font-size: 2.2em;
+        margin-left: 30%;
+        margin-top: 16%;
+    }
+    .furnitureTitle img {
+        width: 36%;
+    }
+    .furnitureDescription {
+        font-size: 0.8em;
+        margin-left: 230px;
+    }
+    .furnitureDescriptionText {
+        width: 220px;
+        line-height: 17px;
+    }
+    .furnitureLearnMore {
+        margin-left: 58%;
+        margin-top: 7%;
+    }
+    .furnitureLearnMoreTitle {
+        font-size: 0.7em;
+    }
+    .furnitureImg img {
+        box-shadow: 0px 0px 10px 2px rgba(0, 0, 0, 0.25);
+        width: 75%;
+        margin-top: 10%;
+    }
+    .furnitureBg {
+        top: 35%;
+        left: 62.3%;
+    }
+    .furnitureBg p {
+        font-size: 8em;
+    }
+    .furnitureBg2 {
+        top: 570px;
+    }
+}
+
+@media only screen and (max-width:1170px) {
+    /*----- HEADER -----*/
+    .headerNav {
+        padding-left: 1%;
+    }
+    .fontNavStyle {
+        font-size: 0.8em;
+    }
+    .accordionHead {
+        margin-right: 43%;
+    }
+    menu-main-sub .title {
+        padding: 9.5px 16px;
+    }
+    .accordionPoint {
+        font-size: 0.8em;
+    }
+    .logotypeHead img {
+        top: 35%;
+        width: 11%;
+    }
+    .titlesHead a:first-child {
+        margin-right: 17%;
+    }
+    .titlesHead a:last-child {
+        margin-left: 17%;
+    }
+    .alertHead img {
+        top: 22%;
+        left: 90%;
+    }
+    /*----- MAIN SCREEN -----*/
+    .mainScreen {
+        min-height: 680px;
+    }
+    .mainScreenBg {
+        max-width: 1920px;
+        min-height: 725px;
+    }
+    h1 {
+        font-size: 4em;
+    }
+    .navigationNumber {
+        left: 5%;
+    }
+    .navigationNumber p {
+        font-size: 1.6em;
+    }
+    .learnMoreBtn {
+        font-size: 0.7em;
+        margin-left: 37.5%;
+        width: 15%;
+        padding-top: 1.7%;
+        padding-left: 4.2%;
+    }
+    .learnMoreBtn img {
+        margin-left: 7%;
+    }
+    .linkToPageBtn {
+        margin-right: 25px;
+    }
+    .navigationMouseContainer {
+        margin-top: -1.5%;
+    }
+    .navigationMouseArrow {
+        width: 10%;
+    }
+    .shareContainer {
+        bottom: 0;
+        right: 2%;
+    }
+    .pageSeparatorContainer {
+        margin-top: 1%;
+    }
+    /*----- FURNITURE -----*/
+    .furniture {
+        max-width: 1170px;
+    }
+    .furnitureText {
+        float: none;
+    }
+    .furnitureTitle {
+        margin: 15% auto 5% auto;
+        letter-spacing: 0.37em;
+        text-align: center;
+    }
+    .furnitureTitle img {
+        width: 20%;
+    }
+    .furnitureDescription {
+        text-align: center;
+        font-size: 1em;
+        margin: 0% auto;
+    }
+    .furnitureDescriptionText {
+        width: 450px;
+        line-height: 26px;
+    }
+    .furnitureLearnMore {
+        margin: 5% auto 0 auto;
+        text-align: center;
+        letter-spacing: 0.18em;
+    }
+    .furnitureLearnMoreTitle {
+        padding-bottom: 1%;
+    }
+    .pageNumber {
+        margin-left: 22%;
+        margin-top: 0;
+        letter-spacing: 0.1em;
+    }
+    .furnitureImg {
+        margin: 0 auto;
+        text-align: center;
+    }
+    .furnitureImg img {
+        width: 55%;
+        margin-top: 5%;
+    }
+    .furnitureBg {
+        top: 70%;
+        left: 45%;
+        letter-spacing: 0.7em;
+    }
+    .furnitureBg p {
+        font-size: 10.6em;
+    }
+    .furnitureBg2 p {
+        font-size: 25em;
+    }
+}
+
+@media only screen and (max-width:1024px) {
+    /*----- HEADER -----*/
+    .accordionHead {
+        margin-right: 37%;
+    }
+    .accordeonHead .drop-menu-main-sub .title {
+        padding: 8.5px 16px;
+    }
+    .logotypeHead img {
+        left: 26%;
+        width: 15%;
+    }
+    .alertHead img {
+        top: 23%;
+        left: 89%;
+    }
+    .languageSelect {
+        margin-top: 0.5%;
+    }
+    /*----- MAIN SCREEN -----*/
+    .mainScreen {
+        min-height: 525px;
+    }
+    .mainScreenBg {
+        max-width: 1024px;
+        min-height: 560px;
+    }
+    h1 {
+        text-align: center;
+        margin-left: 0;
+    }
+    .navigationNumber {
+        left: 2%;
+    }
+    .learnMoreBtn {
+        width: 17%;
+        padding-top: 2%;
+        padding-left: 3%;
+    }
+    .navigationMouseText {
+        font-size: 0.6em;
+    }
+    /*----- FURNITURE -----*/
+    .furniture {
+        max-width: 1024px;
+    }
+    .furnitureTitle {
+        margin: 12% auto 5% auto;
+    }
+    .furnitureTitle img {
+        width: 21%;
+    }
+    .furnitureDescription {
+        font-size: 0.9em;
+    }
+    .furnitureDescriptionText {
+        width: 330px;
+        line-height: 23px;
+    }
+    .pageNumber {
+        margin-left: 24%;
+    }
+    .furnitureImg img {
+        margin-top: 3%;
+    }
+    .furnitureBg p {
+        font-size: 6em;
+    }
+    .furnitureBg2 {
+        top: 340px;
+    }
+    .furnitureBg2 p {
+        font-size: 25em;
+    }
+}
+
+@media only screen and (max-width:767px) {
+    /*----- HEADER -----*/
+    .accordionHead {
+        margin-right: 14%;
+    }
+    .logotypeHead {
+        display: none;
+    }
+    .titlesHead {
+        display: none;
+    }
+    .alertHead img {
+        left: 81%;
+    }
+    /*----- MAIN SCREEN -----*/
+    .mainScreen {
+        min-height: 500px;
+    }
+    .mainScreenBg {
+        max-width: 767px;
+        min-height: 530px;
+    }
+    h1 {
+        padding-top: 38%;
+    }
+    .navigationNumber {
+        display: none;
+    }
+    .learnMoreBtn {
+        width: 30%;
+        padding-top: 3%;
+        padding-left: 10%;
+        margin: 0 auto;
+        font-size: 0.8em;
+    }
+    .navigationMouseContainer {
+        display: none;
+    }
+    /*----- FURNITURE -----*/
+    .furniture {
+        max-width: 767px;
+    }
+    .furnitureTitle {
+        margin-top: 9%;
+    }
+    .furnitureTitle img {
+        width: 15%;
+    }
+    .furnitureDescriptionText {
+        line-height: 21px;
+    }
+    .pageNumber {
+        text-align: center;
+        margin-left: 0;
+    }
+    .furnitureImg img {
+        margin-top: 5%;
+        width: 65%;
+    }
+    .furnitureBg {
+        top: 72%;
+        left: 45%;
+    }
+    .furnitureBg p {
+        font-size: 4em;
+    }
+    .furnitureBg2 {
+        top: 380px;
+    }
+    .furnitureBg2 p {
+        font-size: 15em;
+    }
+}
+
+@media only screen and (max-width:544px) {
+    /*----- HEADER -----*/
+    .alertHead img {
+        left: 73%;
+    }
+    /*----- MAIN SCREEN -----*/
+    .mainScreenBg {
+        max-width: 544px;
+    }
+    h1 {
+        font-size: 3em;
+        padding-top: 60%;
+    }
+    .learnMoreBtn {
+        width: 49%;
+        padding-top: 4%;
+    }
+    .navigationTextContainer {
+        display: none;
+    }
+    /*----- FURNITURE -----*/
+    .furniture {
+        max-width: 544px;
+    }
+    .furnitureTitle {
+        margin-top: 15%;
+    }
+    .furnitureTitle img {
+        display: none;
+    }
+    .furnitureDescription img {
+        width: 100px;
+        height: 3px;
+    }
+    .furnitureDescriptionText {
+        margin-left: 0;
+        width: 100%;
+        display: block;
+    }
+    .pageNumber {
+        display: none;
+    }
+    .furnitureImg img {
+        margin-top: 15%;
+        width: 95%;
+    }
+    .furnitureBg {
+        left: 10%;
+        top: 75%;
+    }
+    .furnitureBg p {
+        font-size: 3em;
+    }
+    .furnitureBg2 {
+        top: 380px;
+    }
+    .furnitureBg2 p {
+        font-size: 14em;
+    }
+}
+
+@media only screen and (max-width: 320px) {
+    body {
+        min-width: 300px;
+    }
+    /*----- MAIN SCREEN -----*/
+    .mainScreenBg {
+        max-width: 320px;
+    }
+    /*----- FURNITURE -----*/
+    .furniture {
+        max-width: 320px;
+    }
+    .furnitureTitle {
+        margin-top: 15%;
+        font-size: 1.6em;
+    }
+    .furnitureDescriptionText {
+        width: 95%;
+        text-align: center;
+    }
+    .furnitureDescription img {
+        margin-bottom: 10px;
+    }
+    .furnitureImg img {
+        width: 90%;
+    }
+    .furnitureBg2 {
+        top: 385px;
+    }
+    .furnitureBg2 p {
+        top: 130%;
+    }
+}
